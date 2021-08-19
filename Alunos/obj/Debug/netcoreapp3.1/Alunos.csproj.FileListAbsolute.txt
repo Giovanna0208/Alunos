@@ -1,0 +1,13 @@
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\bin\Debug\netcoreapp3.1\Alunos.exe
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\bin\Debug\netcoreapp3.1\Alunos.deps.json
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\bin\Debug\netcoreapp3.1\Alunos.runtimeconfig.json
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\bin\Debug\netcoreapp3.1\Alunos.runtimeconfig.dev.json
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\bin\Debug\netcoreapp3.1\Alunos.dll
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\bin\Debug\netcoreapp3.1\Alunos.pdb
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.csprojAssemblyReference.cache
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.AssemblyInfoInputs.cache
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.AssemblyInfo.cs
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.csproj.CoreCompileInputs.cache
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.dll
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.pdb
+C:\Users\giovanna.ramos\source\repos\Alunos\Alunos\obj\Debug\netcoreapp3.1\Alunos.genruntimeconfig.cache
